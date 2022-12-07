@@ -1,0 +1,14 @@
+nltk==3.7
+pdfminer==20191125
+pdfminer.six==20221105
+sent2vec==0.3.0
+spacy==3.4.2
+streamlit==1.14.0
+textblob==0.17.1
+textdistance==4.5.0
+gensim
+numpy
+transformers
+torch
+spacy_download
+scikit-learn
